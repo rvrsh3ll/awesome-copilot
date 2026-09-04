@@ -1,11 +1,13 @@
 ## Pull Request Checklist
 
 - [ ] I have read and followed the [CONTRIBUTING.md](https://github.com/github/awesome-copilot/blob/main/CONTRIBUTING.md) guidelines.
-- [ ] My contribution adds a new instruction, prompt, agent, or skill file in the correct directory.
+- [ ] I have read and followed the [Guidance for submissions involving paid services](https://github.com/github/awesome-copilot/discussions/968).
+- [ ] My contribution adds a new instruction, prompt, agent, skill, workflow, or canvas extension file in the correct directory.
 - [ ] The file follows the required naming convention.
 - [ ] The content is clearly structured and follows the example format.
-- [ ] I have tested my instructions, prompt, agent, or skill with GitHub Copilot.
+- [ ] I have tested my instructions, prompt, agent, skill, workflow, or canvas extension with GitHub Copilot.
 - [ ] I have run `npm start` and verified that `README.md` is up to date.
+- [ ] I am targeting the `main` branch for this pull request.
 
 ---
 
@@ -20,9 +22,11 @@
 - [ ] New instruction file.
 - [ ] New prompt file.
 - [ ] New agent file.
-- [ ] New collection file.
+- [ ] New plugin.
 - [ ] New skill file.
-- [ ] Update to existing instruction, prompt, agent, collection or skill.
+- [ ] New agentic workflow.
+- [ ] New canvas extension.
+- [ ] Update to existing instruction, prompt, agent, plugin, skill, workflow, or canvas extension.
 - [ ] Other (please specify):
 
 ---
